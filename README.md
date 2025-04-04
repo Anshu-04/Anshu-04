@@ -1,3 +1,9 @@
+## Hi, Anshu here! ✨
+
+🎓 Recent BSc-IT Graduate  
+💡 Aspiring Web Developer | MERN Stack Enthusiast | Open to Internship & Job Opportunities 
+📍 India
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.patel_anshu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshu-patel-08b629310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelanshu0409@gmail.com) 
